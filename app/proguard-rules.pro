@@ -1,0 +1,3 @@
+-keep class com.droidai.** { *; }
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
